@@ -1,0 +1,10 @@
+/*
+/*/
+
+!.gitignore
+
+
+# "Main"
+!/Assets/
+!/Packages/
+!/ProjectSettings/
